@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "5d41a595537e7d7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5583b816076b9bb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7226b0ee17b7a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/Resource.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5796f0c77bc45218",
+    "type": "split",
+    "children": [
+      {
+        "id": "426768bf737a5183",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0621d8941dfaf336",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ceff59b31c8862ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae631930d4f62a70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d354773e35025b30",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c34999a0c80169",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9206250f8012f5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "knowledge/Resource.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08ea2e4a79dcd746",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "knowledge/Resource.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fe752a8ff79e009",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b13f6e98a94433e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "knowledge/Resource.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c7226b0ee17b7a92",
+  "lastOpenFiles": [
+    "Resource.md",
+    "knowledge/Resource.md",
+    "().md",
+    "knowledge/Resource.md~",
+    "posts/XR/solutions",
+    "posts/XR/paper",
+    "posts/XR/knowledge",
+    "posts/Spatial Computing/solutions",
+    "posts/Spatial Computing/paper",
+    "posts/Spatial Computing/knowledge",
+    "posts/Robot/solutions",
+    "posts/Robot/paper",
+    "posts/Robot/knowledge",
+    "posts/solutions/Robot/Resource.md",
+    "posts/XR/Resource.md",
+    "posts/Robot/Resource.md",
+    "posts/Intelligent Device/Resource.md",
+    "posts/Human Factor/Resource.md",
+    "posts/HMI/Resource.md",
+    "posts/AGI/Resource.md",
+    "posts/knowledge/Robot/Resource.md",
+    "posts/knowledge/XR/Resource.md",
+    "posts/solutions/XR/Resource.md",
+    "posts/solutions/Human Factor/Resource.md",
+    "posts/solutions/HMI/Resource.md",
+    "posts/solutions/Intelligent Device/Resource.md",
+    "posts/solutions/AGI/Resource.md",
+    "posts/knowledge - 副本/XR/Resource.md",
+    "posts/knowledge - 副本/Robot/Resource.md",
+    "posts/knowledge - 副本/Intelligent Device/Resource.md",
+    "posts/knowledge - 副本/Human Factor/Resource.md",
+    "posts/knowledge - 副本/AGI/Resource.md",
+    "posts/knowledge - 副本/HMI/Resource.md",
+    "posts/attachments/Pasted image 20240413220731.png",
+    "posts/solution/Robot/Resource.md",
+    "posts/knowledge/Human Factor/Resource.md",
+    "posts/knowledge/Intelligent Device/Resource.md",
+    "posts/attachments/Pasted image 20240413213055.png",
+    "attachments/534fe897a01c3b625cc316417257167.png",
+    "Pasted image 20240412224256.png",
+    "attachments/Pasted image 20240412224053.png",
+    "attachments/logo.png",
+    "attachments/Pasted image 20240412223655.png",
+    "attachments/Pasted image 20240412222045.png",
+    "Pasted image 20240412222045.png",
+    "Pasted image 20240412221912.png"
+  ]
+}
